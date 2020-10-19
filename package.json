@@ -1,0 +1,19 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naina25/Express-Calculator.git"
+  },
+  "author": "Naina Upadhyay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naina25/Express-Calculator/issues"
+  },
+  "homepage": "https://github.com/naina25/Express-Calculator#readme"
+}
